@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, my name is Efrén Vázquez</h1>
-<h3 align="center">Aspiring frontend developer from Mexico City.</h3>
+<h3 align="center">Aspiring front-end developer from Mexico City.</h3>
 
 - 🌱 I’m currently going through **freeCodeCamp's curriculum**
 
