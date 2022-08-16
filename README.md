@@ -1,12 +1,12 @@
-<h1 align="center">Hi, my name is Efrén Vázquez 👋</h1>
-<h3 align="center"> Software Developer</h3>
-<p align="center">:round_pushpin: Mexico City</p>
+<h1 align="center">my name is efrén vázquez</h1>
+<h3 align="center">i am a software developer</h3>
+<p align="center">:round_pushpin: mexico city</p>
 
-- 🚚 I’m currently working on some interesting projects related to Supply Chain.
+- 🚚 currently working on the supply chain area.
 
-- 💬 Ask me about: **React, TypeScript, Java, Spring**
+- 💬 ask me about: **react, typescript, java, spring**
 
-- 📫 How to reach me: **vazquezs.efren@gmail.com**
+- 📫 how to reach me: **vazquezs.efren@gmail.com**
 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=efrensho&layout=compact&hide=html" alt="efrensho" /></p>
