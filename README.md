@@ -1,5 +1,5 @@
-<h1 align="center">my name is efrén vázquez</h1>
-<h3 align="center">i am a software developer</h3>
+<h1 align="center">efrén vázquez</h1>
+<h3 align="center">software developer</h3>
 <p align="center">:round_pushpin: mexico city</p>
 
 - 🚚 currently working on the supply chain area.
